@@ -8,3 +8,8 @@
 	url = https://github.com/josue-rodriguez/bayeslincom
 	shallow = true
 	registered = true
+[submodule "psymetadata"]
+	path = psymetadata
+	url = https://github.com/josue-rodriguez/psymetadata
+	shallow = true
+	registered = true
