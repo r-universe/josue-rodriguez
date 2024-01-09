@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bayeslincom"]
-	path = bayeslincom
-	url = https://github.com/josue-rodriguez/bayeslincom
 [submodule "psymetadata"]
 	path = psymetadata
 	url = https://github.com/josue-rodriguez/psymetadata
